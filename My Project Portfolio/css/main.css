@@ -28,4 +28,7 @@
  color: #24c4da;
 font-weight: bold;
 }
-
+.btn-extend {
+  width: 100%;
+  font-weight: bold;
+}
